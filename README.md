@@ -1,6 +1,6 @@
 # -Titanic
-Demo for machine learning
-Learn library 
+Demo for machine learning:
+Purpose is to learn Python libraries including 
 pandas
 numpy
 matplotlib.pyplot
